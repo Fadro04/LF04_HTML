@@ -24,12 +24,16 @@ h1 {
     top: 8px;
     left: 16px;
     text-shadow: 5px 5px 10px black;
+    font-size: 2em;
 }
 
-.bildkatze {
+.bildMann {
     position: absolute;
-    bottom: 8px;
-    left: 35%;
+    bottom: 35%;
+    right: 10px;
     border-radius: 10px;
-    box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    box-shadow: 2px 2px 3px black, 0 0 40px blue, 0 0 10px darkblue, 0 0 5px darkred;
+}
+#bild {
+    border-radius: 10px;
 }
